@@ -1,0 +1,17 @@
+html,body {
+    margin: 0;
+    background-color: white;
+}
+
+.encabezado {
+    padding: 1em;
+    background-color: black;
+    color: orange;
+    text-align: center;
+    font-weight: bold;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
